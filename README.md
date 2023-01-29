@@ -1,6 +1,6 @@
 # JavaFx-Employee-Registration-form
 
-<img src="screenshots/img1.png" alt="project" width="500">
+<img src="screenshots/img1.png" alt="project" width="900">
 
 
 # Configure HSQLDB Plugin
